@@ -8,7 +8,6 @@
 body {
   position: relative;
   margin: 0;
-  /* overflow: hidden; */
   background-color: #10002b;
   color: #e0aaff;
   height: 100vh;
@@ -164,8 +163,6 @@ h2 {
 .card-front img {
   border: 5px solid transparent;
   box-sizing: border-box;
-  /* width: 33.33%;
-  float: left; */
   position: relative;
   cursor: pointer;
 }
